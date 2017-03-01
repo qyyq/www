@@ -6,4 +6,4 @@ dev分支创建
 Creating a new branch is quick and simple.
 分支管理策略
 BUG分支
-我的修改
+最后解决冲突的方法是：小伙伴的工作
