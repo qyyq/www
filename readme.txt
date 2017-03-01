@@ -5,3 +5,4 @@ Git tracks changes.
 dev分支创建
 Creating a new branch is quick and simple.
 分支管理策略
+修复BUG
